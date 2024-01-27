@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b3b9bf5-9941-4770-88c9-8774f3a05964" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/app/(home)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(home)/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/movie.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/movie.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,7 @@
       <updated>1705989051388</updated>
       <workItem from="1705989052502" duration="16444000" />
       <workItem from="1706343758016" duration="12600000" />
-      <workItem from="1706374850503" duration="394000" />
+      <workItem from="1706374850503" duration="1008000" />
     </task>
     <servers />
   </component>
